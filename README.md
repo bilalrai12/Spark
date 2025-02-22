@@ -27,10 +27,10 @@ Note:
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Sparkchain.git
+   git clone https://github.com/bilalrai12/Spark.git
    ```
    ```bash
-   cd Sparkchain
+   cd Spark
    ```
 
 2. **Install Requirements:**
